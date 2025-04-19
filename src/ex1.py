@@ -19,4 +19,7 @@ def main():
             except Exception as err:
                 print(f'Erro: {str(err)}')
     if ask==2:
-        show_elements(vector)
+        try:
+            show_elements(vector) if vector else print("The vector don't hava anyone element!")
+        except Exception as err:
+            print(f'Error: {err}')
