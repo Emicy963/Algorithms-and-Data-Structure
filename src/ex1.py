@@ -23,3 +23,6 @@ def main():
             show_elements(vector) if vector else print("The vector don't hava anyone element!")
         except Exception as err:
             print(f'Error: {err}')
+
+if __name__=='__main__':
+    main()
