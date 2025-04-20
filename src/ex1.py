@@ -1,5 +1,5 @@
 def add_element_list(elem: int):
-    vector: int = list()
+    vector = list()
     vector.append(elem)
     return vector
 
