@@ -8,7 +8,7 @@ def main():
     print("===Somador de Números===")
     num=randint(0, 100)
     try:
-        for _ in num:
+        for _ in range(num):
             vector = add_element_list(randint(0, 100))
         print(f'A soma dos inteiros: {vector} é: {sum_elements(vector)}')
     except Exception as err:
