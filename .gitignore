@@ -13,6 +13,7 @@ __pycache__/
 *.json
 
 # Arquivos de Mídia
+Templates/
 media/
 *.jpg
 *.png
