@@ -14,7 +14,7 @@
   </a>
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Status-Em%20Progresso-yellow?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Dia-01%2F55-green?style=flat-square" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Dia-02%2F55-green?style=flat-square" alt="Progress"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Este repositório documenta minha jornada de **55 dias** no bootcamp de Estrutur
 
 | Dia | Tópico    | Problemas                                | Status |
 | --- | --------- | ---------------------------------------- | ------ |
-| 02  | Recursion | K-th Symbol in Grammar, Josephus Problem | ⏳     |
+| 02  | [Recursion](./src/Day%2002/) | K-th Symbol in Grammar, Josephus Problem | ✅     |
 | 03  | Recursion | Tower of Hanoi, Power Sum                | ⏳     |
 
 ---
@@ -175,11 +175,11 @@ Este repositório documenta minha jornada de **55 dias** no bootcamp de Estrutur
 ### 🕸️ Fase 12: Graphs (Days 52-55)
 
 | Dia | Tópico | Problemas                                       | Status |
-| --- | ------ | ----------------------------------------------- | ------ | --- |
+| --- | ------ | ----------------------------------------------- | ------ |
 | 52  | Graphs | BFS, DFS                                        | ⏳     |
 | 53  | Graphs | Connected Components, Topological Sort          | ⏳     |
 | 54  | Graphs | Number of Provinces, Find Path in Graph         | ⏳     |
-| 55  | Graphs | Number of Islands, Same Consecutive Differences | ⏳     |     |
+| 55  | Graphs | Number of Islands, Same Consecutive Differences | ⏳     |
 
 ---
 
