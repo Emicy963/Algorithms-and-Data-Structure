@@ -14,7 +14,7 @@
   </a>
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Status-Em%20Progresso-yellow?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Dia-02%2F55-green?style=flat-square" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Dia-03%2F55-green?style=flat-square" alt="Progress"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@ Este repositório documenta minha jornada de **55 dias** no bootcamp de Estrutur
 | Dia | Tópico    | Problemas                                | Status |
 | --- | --------- | ---------------------------------------- | ------ |
 | 02  | [Recursion](./src/Day%2002/) | K-th Symbol in Grammar, Josephus Problem | ✅     |
-| 03  | Recursion | Tower of Hanoi, Power Sum                | ⏳     |
+| 03  | [Recursion](./src/Day%2003/) | Tower of Hanoi, Power Sum                | ✅     |
 
 ---
 
