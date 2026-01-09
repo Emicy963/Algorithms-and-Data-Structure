@@ -14,7 +14,7 @@
   </a>
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Status-Em%20Progresso-yellow?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Dia-03%2F55-green?style=flat-square" alt="Progress"/>
+  <img src="https://img.shields.io/badge/Dia-04%2F55-green?style=flat-square" alt="Progress"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@ Este repositório documenta minha jornada de **55 dias** no bootcamp de Estrutur
 
 | Dia | Tópico       | Problemas                              | Status |
 | --- | ------------ | -------------------------------------- | ------ |
-| 04  | Backtracking | Permutations, Permutations 2           | ⏳     |
+| 04  | [Backtracking](./src/Day%2004/) | Permutations, Permutations 2           | ✅    |
 | 05  | Backtracking | Subsets, Subsets 2                     | ⏳     |
 | 06  | Backtracking | Combinations, Combinations Sum 1       | ⏳     |
 | 07  | Backtracking | Combinations Sum 2, Combinations Sum 3 | ⏳     |
