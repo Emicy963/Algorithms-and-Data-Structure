@@ -36,6 +36,7 @@ Este repositório documenta minha jornada de **55 dias** no bootcamp de Estrutur
 │   ├── 📁 Day 01/        # Arrays & Big O
 │   ├── 📁 Day 02/        # Recursion
 │   └── ...
+├── 📄 .gitignore
 ├── 📄 LICENSE
 └── 📄 README.md
 ```
